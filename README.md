@@ -1,6 +1,6 @@
 # Fogle's clone project
 
-This repository contains the code for the Fogle's clone project.
+This repository contains the code for the [Fogle](https://folge.me)'s clone project.
 
 ## Installation
 
